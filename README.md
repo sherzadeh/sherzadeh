@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sherzadeh
-- 👀 I’m interested in things
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ... you don't
+- ## Hello World
+- I'm Sam.
+- I'm here to build software and tools for my business
+- I'm also here to learn and grow in my ability to architect, plan, deploy, and manage performance/cost/ops of developer releases and platform
+- MEH YNOT
 
 <!---
 sherzadeh/sherzadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
